@@ -1,16 +1,17 @@
 # advent-of-code-2023-python
 
-## Progress:
+## Completed:
 - Day 01 (part 1)
 - Day 02 (parts 1 and 2)
 - Day 04 (parts 1 and 2)
+- Day 05 (part 1)
 - Day 06 (parts 1 and 2)
 - Day 07 (part 1)
 
 ## Incomplete
 - Day 01 (part 2)
 - Day 03 (parts 1 and 2)
-- Day 05 (parts 1 and 2)
+- Day 05 (part 2)
 - Day 07 (part 2)
 
 ## Awaiting Release
