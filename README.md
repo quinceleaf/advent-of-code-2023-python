@@ -1,7 +1,7 @@
 # advent-of-code-2023-python
 
 ## Completed:
-- Day 01 (part 1)
+- Day 01 (parts 1 and 2)
 - Day 02 (parts 1 and 2)
 - Day 04 (parts 1 and 2)
 - Day 05 (part 1)
@@ -9,13 +9,12 @@
 - Day 07 (part 1)
 
 ## Incomplete
-- Day 01 (part 2)
 - Day 03 (parts 1 and 2)
 - Day 05 (part 2)
 - Day 07 (part 2)
+- Day 08 (parts 1 and 2)
 
 ## Awaiting Release
-- Day 08
 - Day 09
 - Day 10
 - Day 11
