@@ -7,17 +7,21 @@
 - Day 05 (part 1)
 - Day 06 (parts 1 and 2)
 - Day 07 (part 1)
+- Day 08 (part 1)
+
 
 ## Incomplete
 - Day 03 (parts 1 and 2)
 - Day 05 (part 2)
 - Day 07 (part 2)
-- Day 08 (parts 1 and 2)
+- Day 08 (part 2)
+- Day 09 (parts 1 and 2)
+- Day 10 (parts 1 and 2)
+- Day 11 (parts 1 and 2)
+
 
 ## Awaiting Release
-- Day 09
-- Day 10
-- Day 11
+
 - Day 12
 - Day 13
 - Day 14
